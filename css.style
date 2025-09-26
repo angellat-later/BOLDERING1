@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+}
+h1{
+    text-align:center;
+}
+a{
+    border-bottom:solid black 3px;
+}
+nav{
+     text-align: center;
+}
+img{
+    border-left:dotted black 15px;
+}
+h2 img{
+    border:0px;
+}
+footer p{
+    border: solid black 10px;
+}
+p{
+    border:solid black 1px;
+  border-radius:10px;
+  margin:5px;
+  padding:5px;
+  
+}
